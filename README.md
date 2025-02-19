@@ -64,8 +64,8 @@ I'm always open to connecting with like-minded individuals. Feel free to reach o
 If you find my work helpful, consider supporting me:
 
 - **Crypto Donations**:
-  - **Ethereum**: `0xYourEthereumAddress`
-  - **Solana**: `YourSolanaAddress`
+  - **Ethereum**: `0x782C2D8138066EbDa97209E275b4C4eAEf06bC59`
+  - **Solana**: `5KXwd5x96NUm3SDNNsgrnvmQPbED1RgYxSEFQmA6JCiE`
 
 ---
 
