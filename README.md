@@ -1,19 +1,21 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Boren4anzz!
 
-Welcome to my GitHub profile! I'm a passionate [Your Role, e.g., Software Developer, Data Scientist, Blockchain Enthusiast] who loves building cool stuff and solving real-world problems. Here, you'll find a collection of my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm a passionate **Airdroper**, **Node Validator**, and **Bot Developer** with a strong interest in blockchain technology and decentralized ecosystems. I'm also one of the admins at [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN), a community dedicated to sharing airdrop opportunities and blockchain knowledge.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **I’m currently working on**: [Your Current Project or Focus]
-- 🌱 **I’m currently learning**: [What You're Learning, e.g., Rust, Machine Learning, Smart Contracts]
-- 👯 **I’m looking to collaborate on**: [Type of Projects You're Interested In]
-- 🤔 **I’m looking for help with**: [Areas Where You Need Assistance]
-- 💬 **Ask me about**: [Your Expertise, e.g., Web Development, Blockchain, Data Analysis]
-- 📫 **How to reach me**: [Your Email or Social Media Links]
-- 😄 **Pronouns**: [Your Pronouns, e.g., He/Him, She/Her, They/Them]
-- ⚡ **Fun fact**: [A Fun Fact About You]
+- 💻 **I’m currently working on**: Building automation bots for airdrops and managing validator nodes.
+- 🌱 **I’m currently learning**: Advanced smart contract development and node optimization.
+- 👯 **I’m looking to collaborate on**: Blockchain projects, airdrop campaigns, and bot development.
+- 🤔 **I’m looking for help with**: Scaling validator nodes and improving bot efficiency.
+- 💬 **Ask me about**: Airdrops, testnet participation, validator nodes, and bot development.
+- 📫 **How to reach me**: 
+  - **Twitter**: [@KuroukaRun](https://x.com/KuroukaRun)
+  - **Telegram**: [@FxcTe](https://t.me/FxcTe)
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I can spend hours debugging a bot just to make it 1% more efficient.
 
 ---
 
@@ -22,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate [Your Role, e.g., Software Develo
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- **Blockchain**: ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Binance Smart Chain](https://img.shields.io/badge/-Binance%20Smart%20Chain-F0B90B?logo=binance&logoColor=white)
+- **Blockchain Tools**: ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-333333?logo=ethereum&logoColor=white)
+- **Node Management**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -32,9 +34,9 @@ Here are some of the technologies and tools I work with:
 
 Here's a quick overview of my GitHub activity:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boren4anzz&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boren4anzz&layout=compact&theme=radical)
 
 ---
 
@@ -42,19 +44,9 @@ Here's a quick overview of my GitHub activity:
 
 Here are some of my favorite projects:
 
-1. **[Project Name](https://github.com/yourusername/project-repo)**: A brief description of the project.
-2. **[Project Name](https://github.com/yourusername/project-repo)**: A brief description of the project.
-3. **[Project Name](https://github.com/yourusername/project-repo)**: A brief description of the project.
-
----
-
-## 📚 Latest Blog Posts
-
-I occasionally write about tech, programming, and life. Check out my latest posts:
-
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
+1. **[Airdrop Automation Bot](https://github.com/Boren4anzz/airdrop-bot)**: A bot to automate airdrop claims and participation in testnets.
+2. **[Validator Node Setup](https://github.com/Boren4anzz/validator-node)**: A guide and scripts to set up and manage validator nodes.
+3. **[Testnet Participation Toolkit](https://github.com/Boren4anzz/testnet-toolkit)**: Tools and scripts to simplify testnet participation.
 
 ---
 
@@ -62,10 +54,9 @@ I occasionally write about tech, programming, and life. Check out my latest post
 
 I'm always open to connecting with like-minded individuals. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KuroukaRun)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/FxcTe)
+[![AirdropFamilyIDN](https://img.shields.io/badge/-AirdropFamilyIDN-26A5E4?logo=telegram&logoColor=white)](https://t.me/AirdropFamilyIDN)
 
 ---
 
@@ -73,7 +64,6 @@ I'm always open to connecting with like-minded individuals. Feel free to reach o
 
 If you find my work helpful, consider supporting me:
 
-- **Buy Me a Coffee**: [Your Buy Me a Coffee Link]
 - **Crypto Donations**:
   - **Ethereum**: `0xYourEthereumAddress`
   - **Bitcoin**: `YourBitcoinAddress`
@@ -81,4 +71,4 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-Thanks for visiting! Have a great day! 🚀
+Thanks for visiting! Let's build the future of blockchain together! 🚀
