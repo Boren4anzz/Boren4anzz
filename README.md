@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Boren4anzz!
 
-Welcome to my GitHub profile! I'm a passionate **Airdroper**, **Node Validator**, and **Bot Developer** with a strong interest in blockchain technology and decentralized ecosystems. I'm also one of the admins at [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN), a community dedicated to sharing airdrop opportunities and blockchain knowledge.
+Welcome to my GitHub profile! I'm a passionate **Airdroper**, **Node Validator**, and **Bot Developer** with a strong interest in blockchain technology and decentralized ecosystems. I love building tools and solutions to simplify participation in blockchain networks, especially airdrops and testnets.
 
 ---
 
@@ -56,7 +56,6 @@ I'm always open to connecting with like-minded individuals. Feel free to reach o
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KuroukaRun)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/FxcTe)
-[![AirdropFamilyIDN](https://img.shields.io/badge/-AirdropFamilyIDN-26A5E4?logo=telegram&logoColor=white)](https://t.me/AirdropFamilyIDN)
 
 ---
 
@@ -66,7 +65,6 @@ If you find my work helpful, consider supporting me:
 
 - **Crypto Donations**:
   - **Ethereum**: `0xYourEthereumAddress`
-  - **Bitcoin**: `YourBitcoinAddress`
   - **Solana**: `YourSolanaAddress`
 
 ---
