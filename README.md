@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **Airdroper**, **Node Validator**
 - 📫 **How to reach me**: 
   - **Twitter**: [@KuroukaRun](https://x.com/KuroukaRun)
   - **Telegram**: [@FxcTe](https://t.me/FxcTe)
-- 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I can spend hours debugging a bot just to make it 1% more efficient.
 
 ---
@@ -64,7 +63,7 @@ I'm always open to connecting with like-minded individuals. Feel free to reach o
 If you find my work helpful, consider supporting me:
 
 - **Crypto Donations**:
-  - **Ethereum**: `0x782C2D8138066EbDa97209E275b4C4eAEf06bC59`
+  - **Ethereum**: `0x0000C716579035ba54de3b25379c8207d1162672`
   - **Solana**: `5KXwd5x96NUm3SDNNsgrnvmQPbED1RgYxSEFQmA6JCiE`
 
 ---
